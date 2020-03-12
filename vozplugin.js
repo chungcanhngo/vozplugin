@@ -2,7 +2,7 @@
 // @name         VozPlugin
 // @namespace    http://tampermonkey.net/
 // @updateURL    https://raw.githubusercontent.com/chungcanhngo/vozplugin/master/vozplugin.js
-// @version      1.0.2
+// @version      1.0.3
 // @description  try to take over the world!
 // @author       chungcanhngo
 // @match        https://*.voz.vn/*
